@@ -1,6 +1,6 @@
 # Homepage
 
-## Programmmeren
+## Programmeren
 
  - [Introductie Programmeren met Python Turtle](./ippt/)
  - [SetGame Online](./setgame/)
