@@ -3,7 +3,7 @@
 ## Programmmeren
 
  - [Introductie Programmeren met Python Turtle](./ippt/)
- - [SetGame Online](./setgame-online/)
+ - [SetGame Online](./setgame/)
 
 ## Natuur, Leven en Technologie
 
