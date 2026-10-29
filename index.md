@@ -3,7 +3,7 @@
 ## Wiskunde
 
 ### 24
-[24](https://kooi.github.io/24-gen) - Maak 24 met _precies_ 4 getallen. Je mag vermenigvuldigen, delen optellen aftrekken en haakjes zetten.
+[24](https://kooi.github.io/24gen) - Maak 24 met _precies_ 4 getallen. Je mag vermenigvuldigen, delen optellen aftrekken en haakjes zetten.
 
 ### Verbandje leggen
  - [Level 1](https://kooi.github.io/verbandje-leggen/index-nl.html?number-of-graphs=1&number-of-answers=3&number-of-problems=5&timer=30&show-table=false&show-random=false&p_o0_t1=1&p_o1_t1=3&p_o1_t2=4&p_o2_t2=3&p_o2_t3=0) - Zoek het verband bij de grafiek
