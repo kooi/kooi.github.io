@@ -10,6 +10,10 @@
  - [Level 2](https://kooi.github.io/verbandje-leggen/index-nl.html?number-of-graphs=1&number-of-answers=3&number-of-problems=5&timer=30&show-table=false&show-random=true&p_o0_t1=1&p_o1_t1=3&p_o1_t2=4&p_o2_t2=3&p_o2_t3=0) - Grafieken en tabellen
  - [Level 3](https://kooi.github.io/verbandje-leggen/index-nl.html?number-of-graphs=1&number-of-answers=0&number-of-problems=5&timer=30&show-table=false&show-random=false&p_o0_t1=1&p_o1_t1=3&p_o1_t2=4&p_o2_t2=3&p_o2_t3=0) - Nu moet je zelf de functie bedenken!
 
+### Verbanden ontdekken
+
+[Grafiek, punten en formule](https://kooi.github.io/verbandje-leggen/verband-maken.html) - Onderzoek welke formule het verband tussen de $x$ en $y$-coordinaten de punten in de grafiek beschrijft.
+
 ## Programmeren
 
  - [Introductie Programmeren met Python Turtle](./ippt/)
